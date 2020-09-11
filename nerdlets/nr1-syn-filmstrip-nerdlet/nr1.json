@@ -1,0 +1,7 @@
+{
+    "schemaType": "NERDLET",
+    "id": "nr1-syn-filmstrip-nerdlet",
+    "displayName": "Step Analyzer",
+    "description": "Analyze custom steps for monitor executions",
+    "entities": [{"domain": "SYNTH", "type": "MONITOR"}]
+}

@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "nr1-syn-filmstrip-launcher",
+    "displayName": "Step Analyzer",
+    "description": "Analyze custom steps for monitor executions",
+    "rootNerdletId": "nr1-syn-filmstrip-nerdlet"
+}

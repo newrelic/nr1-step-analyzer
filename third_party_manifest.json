@@ -1,0 +1,120 @@
+{
+  "lastUpdated": "Fri Sep 11 2020 13:34:53 GMT-0400 (Eastern Daylight Time)",
+  "projectName": "nr1-step-analyzer",
+  "projectUrl": "https://github.com/khpeet/nr1-step-analyzer",
+  "includeDev": true,
+  "dependencies": {
+    "aws-sdk@2.748.0": {
+      "name": "aws-sdk",
+      "version": "2.748.0",
+      "range": "^2.748.0",
+      "licenses": "Apache-2.0",
+      "repoUrl": "https://github.com/aws/aws-sdk-js",
+      "versionedRepoUrl": "https://github.com/aws/aws-sdk-js/tree/v2.748.0",
+      "licenseFile": "node_modules/aws-sdk/LICENSE.txt",
+      "licenseUrl": "https://github.com/aws/aws-sdk-js/blob/v2.748.0/LICENSE.txt",
+      "licenseTextSource": "file",
+      "publisher": "Amazon Web Services",
+      "url": "https://aws.amazon.com/"
+    },
+    "lodash@4.17.20": {
+      "name": "lodash",
+      "version": "4.17.20",
+      "range": "^4.17.20",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/lodash/lodash",
+      "versionedRepoUrl": "https://github.com/lodash/lodash/tree/v4.17.20",
+      "licenseFile": "node_modules/lodash/LICENSE",
+      "licenseUrl": "https://github.com/lodash/lodash/blob/v4.17.20/LICENSE",
+      "licenseTextSource": "file",
+      "publisher": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    "moment@2.27.0": {
+      "name": "moment",
+      "version": "2.27.0",
+      "range": "^2.27.0",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/moment/moment",
+      "versionedRepoUrl": "https://github.com/moment/moment/tree/v2.27.0",
+      "licenseFile": "node_modules/moment/LICENSE",
+      "licenseUrl": "https://github.com/moment/moment/blob/v2.27.0/LICENSE",
+      "licenseTextSource": "file",
+      "publisher": "Iskren Ivov Chernev",
+      "email": "iskren.chernev@gmail.com",
+      "url": "https://github.com/ichernev"
+    },
+    "prop-types@15.7.2": {
+      "name": "prop-types",
+      "version": "15.7.2",
+      "range": "^15.6.2",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/facebook/prop-types",
+      "versionedRepoUrl": "https://github.com/facebook/prop-types/tree/v15.7.2",
+      "licenseFile": "node_modules/prop-types/LICENSE",
+      "licenseUrl": "https://github.com/facebook/prop-types/blob/v15.7.2/LICENSE",
+      "licenseTextSource": "file"
+    },
+    "react-dom@16.13.1": {
+      "name": "react-dom",
+      "version": "16.13.1",
+      "range": "^16.6.3",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/facebook/react",
+      "versionedRepoUrl": "https://github.com/facebook/react/tree/v16.13.1",
+      "licenseFile": "node_modules/react-dom/LICENSE",
+      "licenseUrl": "https://github.com/facebook/react/blob/v16.13.1/LICENSE",
+      "licenseTextSource": "file"
+    },
+    "react-event-timeline@1.6.3": {
+      "name": "react-event-timeline",
+      "version": "1.6.3",
+      "range": "^1.6.3",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/rcdexta/react-event-timeline",
+      "versionedRepoUrl": "https://github.com/rcdexta/react-event-timeline/tree/v1.6.3",
+      "licenseFile": "node_modules/react-event-timeline/LICENSE.md",
+      "licenseUrl": "https://github.com/rcdexta/react-event-timeline/blob/v1.6.3/LICENSE.md",
+      "licenseTextSource": "file",
+      "publisher": "RC"
+    },
+    "react@16.13.1": {
+      "name": "react",
+      "version": "16.13.1",
+      "range": "^16.6.3",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/facebook/react",
+      "versionedRepoUrl": "https://github.com/facebook/react/tree/v16.13.1",
+      "licenseFile": "node_modules/react/LICENSE",
+      "licenseUrl": "https://github.com/facebook/react/blob/v16.13.1/LICENSE",
+      "licenseTextSource": "file"
+    },
+    "semantic-ui-css@2.4.1": {
+      "name": "semantic-ui-css",
+      "version": "2.4.1",
+      "range": "^2.4.1",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/Semantic-Org/Semantic-UI-CSS",
+      "versionedRepoUrl": "https://github.com/Semantic-Org/Semantic-UI-CSS/tree/v2.4.1",
+      "licenseFile": "node_modules/semantic-ui-css/LICENSE",
+      "licenseUrl": "https://github.com/Semantic-Org/Semantic-UI-CSS/blob/v2.4.1/LICENSE",
+      "licenseTextSource": "file",
+      "publisher": "Jack Lukic",
+      "email": "jack@semantic-ui.com"
+    },
+    "semantic-ui-react@0.88.2": {
+      "name": "semantic-ui-react",
+      "version": "0.88.2",
+      "range": "^0.88.2",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/Semantic-Org/Semantic-UI-React",
+      "versionedRepoUrl": "https://github.com/Semantic-Org/Semantic-UI-React/tree/v0.88.2",
+      "licenseFile": "node_modules/semantic-ui-react/LICENSE.md",
+      "licenseUrl": "https://github.com/Semantic-Org/Semantic-UI-React/blob/v0.88.2/LICENSE.md",
+      "licenseTextSource": "file",
+      "publisher": "Levi Thomason",
+      "email": "me@levithomason.com"
+    }
+  },
+  "devDependencies": {}
+}
