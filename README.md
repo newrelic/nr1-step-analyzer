@@ -28,7 +28,7 @@ npm -v
 
 ```bash
 nr1 nerdpack:clone -r https://github.com/newrelic-experimental/nr1-step-analyzer.git
-cd nr1-execution-analyzer
+cd nr1-step-analyzer
 nr1 nerdpack:serve
 ```
 
